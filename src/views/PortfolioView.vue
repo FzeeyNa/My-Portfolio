@@ -79,7 +79,7 @@ export default {
           status: 'My personal website to show profile, skills, and try new technologies.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          demo: 'https://fazryal-portofolio.netlify.app/'
         },
         {
           id: 2,
